@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="12px" viewBox="0 0 22 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>icons8-expand_arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Landing-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Page" transform="translate(-1338.000000, -4913.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="icons8-expand_arrow" transform="translate(1349.000000, 4919.000000) scale(1, -1) translate(-1349.000000, -4919.000000) translate(1337.000000, 4912.000000)">
+                <path d="M21.990234,0.9863281 C21.7264629,0.99256433 21.4758426,1.10278124 21.292969,1.2929688 L12,10.585938 L2.7070312,1.2929688 C2.51876013,1.09943606 2.2602361,0.990250139 1.9902344,0.9902344 C1.5833114,0.990341351 1.21702557,1.23698989 1.06390359,1.61400447 C0.910781607,1.99101905 1.00135761,2.423219 1.2929688,2.707031 L11.292969,12.707031 C11.6834988,13.0973991 12.3165012,13.0973991 12.707031,12.707031 L22.707031,2.707031 C23.0042729,2.42120173 23.0956025,1.98223458 22.9370283,1.60157021 C22.7784541,1.22090584 22.4024918,0.976599504 21.990234,0.9863281 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>
